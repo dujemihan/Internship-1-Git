@@ -1,5 +1,5 @@
-Duje ima 1 pobjeda i 1 poraza!
-Zorzi ima 1 pobjeda i 1 poraza!
+Duje ima 2 pobjeda i 1 poraza!
+Zorzi ima 1 pobjeda i 2 poraza!
 
 O X X
 . X O
