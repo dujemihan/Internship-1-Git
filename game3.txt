@@ -1,7 +1,7 @@
-Duje ima 0 pobjeda i 0 poraza!
-Zorzi ima 0 pobjeda i 0 poraza!
+Duje ima 1 pobjeda i 0 poraza!
+Zorzi ima 0 pobjeda i 1 poraza!
 
 X O X
 . O .
-X . O
+X X O
 
